@@ -9,7 +9,6 @@ To start the application we run a django command that will open the browser. Whe
 
 This software when fully completed will be a personal project I intend to put on the market for my home country.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
 [Software Demo Video](https://youtu.be/3Q4lfa2NhcU)
 
@@ -26,7 +25,6 @@ The site has 5 pages; The home page, the food page, the entertainment page, the 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [YouTube Tutorial ](https://www.youtube.com/watch?v=UmljXZIypDc)
 * [Django Website](https://www.djangoproject.com/)
 * [Python for Djago](https://realpython.com/get-started-with-django-1/)
